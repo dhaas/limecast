@@ -133,6 +133,18 @@ describe Podcast, "being saved with tag_string" do
   end
 end
 
+describe Podcast, "sanitizing its input" do
+  before do
+    @podcast = Factory.create(:podcast)
+  end
+  
+  it 'should sanitize description' do
+    @podcast.description = "<![CDATA[Money money money]]>"
+    @podcast.save
+    @podcast.description.should == "Money money money"
+  end
+end
+
 describe Podcast, "with associated tags" do
   before do
     @podcast1 = Factory.create(:podcast, :tag_string => "tag1 commontag")

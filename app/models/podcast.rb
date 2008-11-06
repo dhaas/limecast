@@ -52,6 +52,7 @@ class Podcast < ActiveRecord::Base
   before_save :cache_custom_title
   before_save :sanitize_title
   before_save :sanitize_url
+  before_save :sanitize_description
   
   # Search
   define_index do
@@ -138,6 +139,14 @@ class Podcast < ActiveRecord::Base
   end
 
   protected
+  def sanitize_description
+    return if self.description.nil?
+    tmp = self.description
+    tmp.gsub!(/\<\!\[CDATA\[/, '')
+    tmp.gsub!(/\]\]\>/,'')
+    self.description = tmp
+
+  end
 
   def sanitize_title
     return if self.title.nil?
