@@ -25,3 +25,6 @@
 [submodule "vendor/gems/curb"]
 	path = vendor/gems/curb
 	url = git://github.com/taf2/curb.git
+[submodule "gchartrb"]
+	path = gchartrb
+	url = git://github.com/deepakjois/gchartrb

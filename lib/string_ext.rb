@@ -7,5 +7,12 @@ class String
       sub(%r{index\.html$}, "").  # Removes trailing index.html
       sub(%r{/$}, "")             # Removes trailing slash
   end
+
+  def human_sortify
+    self.
+      gsub(/^The\s/i,'').
+      gsub(/^An?\s/i,'').
+      downcase
+  end
 end
 

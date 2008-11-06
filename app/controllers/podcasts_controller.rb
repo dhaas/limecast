@@ -2,7 +2,8 @@ class PodcastsController < ApplicationController
   before_filter :login_required, :only => [:edit, :update, :destroy]
 
   def index
-    @podcasts = Podcast.parsed.find(:all, :order => "title ASC")
+    @podcasts = Podcast.parsed.find(:all)
+    @podcasts.sort!{|a,b| a.title.human_sortify <=> b.title.human_sortify }    
   end
 
   def show
