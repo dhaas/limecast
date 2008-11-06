@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/include/xsl/podcast.xsl"?>
+<rss xmlns:npr="http://www.npr.org/rss/" xmlns:nprml="http://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>NPR: Planet Money Podcast</title>
+    <link>http://www.npr.org/planetmoney?ft=2&amp;f=510289</link>
+    <description><![CDATA[Money makes the world go around, faster and faster every day. On NPR's Planet Money, you'll meet high rollers, brainy economists and regular folks -- all trying to make sense of our rapidly changing global economy.]]></description>
+    <copyright>2008 National Public Radio</copyright>
+    <generator>NPR API RSS Generator 0.9</generator>
+    <language>en-us</language>
+    <itunes:summary><![CDATA[Money makes the world go around, faster and faster every day. On NPR's Planet Money, you'll meet high rollers, brainy economists and regular folks -- all trying to make sense of our rapidly changing global economy.]]></itunes:summary>
+    <itunes:subtitle>The Economy, Explained</itunes:subtitle>
+    <itunes:keywords>NPR,Planet Money,Adam Davidson,economics,economy,market,inflation,currency,finance,investing,inflation,recession,growth,trade,debt,deficit,NPR,National Public Radio,Planet Money,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+    <itunes:author>NPR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcasts@npr.org</itunes:email>
+      <itunes:name/>
+    </itunes:owner>
+    <itunes:category text="Business"/>
+    <itunes:category text="News &amp; Politics"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:image href="http://media.npr.org/images/podcasts/primary/icon_510289.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <image>
+      <url>http://media.npr.org/images/podcasts/thumbnail/icon_510289.jpg</url>
+      <title>NPR: Planet Money Podcast</title>
+      <link>http://www.npr.org/planetmoney?ft=2&amp;f=510289</link>
+    </image>
+    <lastBuildDate>Tue, 04 Nov 2008 17:15:38 -0500</lastBuildDate>
+    <item>
+      <title>Falling Prices, Not Good News</title>
+      <description><![CDATA[A listener asks "what's so bad about lower prices anyway?" An economist answers.]]></description>
+      <pubDate>Tue, 04 Nov 2008 17:15:38 -0500</pubDate>
+      <link>http://www.npr.org/planetmoney?ft=2&amp;f=510289</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96595872/npr_96595872.mp3</guid>
+      <itunes:summary><![CDATA[A listener asks "what's so bad about lower prices anyway?" An economist answers.]]></itunes:summary>
+      <itunes:keywords>deflation,inflation,money,economy,NPR,National Public Radio,Planet Money,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>12:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96595872/npr_96595872.mp3" length="6222828" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>When Things Go Bad, Here and There</title>
+      <description><![CDATA[Five school districts in Wisconsin borrowed, invested and lost an awful lot of money. A few months ago, the IMF was laying off workers. Now it's scrambling to save the world. And a listener checks in with a picture from the local coffee shop.]]></description>
+      <pubDate>Mon, 03 Nov 2008 18:01:22 -0500</pubDate>
+      <link>http://www.npr.org/planetmoney?ft=2&amp;f=510289</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96545242/npr_96545242.mp3</guid>
+      <itunes:summary><![CDATA[Five school districts in Wisconsin borrowed, invested and lost an awful lot of money. A few months ago, the IMF was laying off workers. Now it's scrambling to save the world. And a listener checks in with a picture from the local coffee shop.]]></itunes:summary>
+      <itunes:keywords>IMF,New York Times,Wisconsin,schools,money,economy,NPR,National Public Radio,Planet Money,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>22:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96545242/npr_96545242.mp3" length="10661973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Credit Default Swap Monster</title>
+      <description><![CDATA[If there's any corner of the financial world where angels fear to tread, it's credit default swaps. Alex Blumberg leads the way in, with an amazingly understandable primer. Satyajit Das follows up by answering listener questions.]]></description>
+      <pubDate>Fri, 31 Oct 2008 17:28:12 -0400</pubDate>
+      <link>http://www.npr.org/planetmoney?ft=2&amp;f=510289</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96413904/npr_96413904.mp3</guid>
+      <itunes:summary><![CDATA[If there's any corner of the financial world where angels fear to tread, it's credit default swaps. Alex Blumberg leads the way in, with an amazingly understandable primer. Satyajit Das follows up by answering listener questions.]]></itunes:summary>
+      <itunes:keywords>credit default swaps,derivatives,economy,money,NPR,National Public Radio,Planet Money,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>18:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96413904/npr_96413904.mp3" length="8926188" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The R-Word</title>
+      <description><![CDATA[The American economy appeared to shrink in the third quarter of 2008. With so many economists believing that pattern continued, it may be time to call this a recession. Plus: An Economist House Call for a guy who'd like to retire.]]></description>
+      <pubDate>Thu, 30 Oct 2008 18:58:10 -0400</pubDate>
+      <link>http://www.npr.org/planetmoney?ft=2&amp;f=510289</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96357669/npr_96357669.mp3</guid>
+      <itunes:summary><![CDATA[The American economy appeared to shrink in the third quarter of 2008. With so many economists believing that pattern continued, it may be time to call this a recession. Plus: An Economist House Call for a guy who'd like to retire.]]></itunes:summary>
+      <itunes:keywords>recession,money,economy,401k,GDP,NPR,National Public Radio,Planet Money,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>21:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96357669/npr_96357669.mp3" length="10343488" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Prescription: Borrow Money</title>
+      <description><![CDATA[As expected, the Federal Reserve lowered the interest rate we all care about by another half point, to 1. Economic historian John Steele Gordon says the idea is to get people to borrow money again &mdash; responsibly this time, please. Plus: What's a yen-carry trade?]]></description>
+      <pubDate>Wed, 29 Oct 2008 18:24:36 -0400</pubDate>
+      <link>http://www.npr.org/planetmoney?ft=2&amp;f=510289</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96295437/npr_96295437.mp3</guid>
+      <itunes:summary><![CDATA[As expected, the Federal Reserve lowered the interest rate we all care about by another half point, to 1. Economic historian John Steele Gordon says the idea is to get people to borrow money again &mdash; responsibly this time, please. Plus: What's a yen-carry trade?]]></itunes:summary>
+      <itunes:keywords>economy,money,debt,Federal Reserve,interest,yen,NPR,National Public Radio,Planet Money,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>20:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96295437/npr_96295437.mp3" length="9850505" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Prescription: Buy Something</title>
+      <description><![CDATA[A survey finds consumer confidence at its lowest level in 35 years. An economist walks us through the wreckage. Plus: A guy in Rhode Island says he has stopped spending money. Simon Johnson, economist, diagnoses the trouble with that.]]></description>
+      <pubDate>Tue, 28 Oct 2008 19:07:49 -0400</pubDate>
+      <link>http://www.npr.org/planetmoney?ft=2&amp;f=510289</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96240461/npr_96240461.mp3</guid>
+      <itunes:summary><![CDATA[A survey finds consumer confidence at its lowest level in 35 years. An economist walks us through the wreckage. Plus: A guy in Rhode Island says he has stopped spending money. Simon Johnson, economist, diagnoses the trouble with that.]]></itunes:summary>
+      <itunes:keywords>economy,money,shopping,recession,consumer confidence,NPR,National Public Radio,Planet Money,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>18:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96240461/npr_96240461.mp3" length="9014169" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Romania, Meet Financial Crisis (01)</title>
+      <description><![CDATA[They binged on debt &mdash; some of it for building factories and such, some for flat-screen TVs. Now the foreign investment that made it all possible has turned for home, leaving the countries of emerging markets in trouble deep.]]></description>
+      <pubDate>Mon, 27 Oct 2008 18:25:50 -0400</pubDate>
+      <link>http://www.npr.org/planetmoney?ft=2&amp;f=510289</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96197146/npr_96197146.mp3</guid>
+      <itunes:summary><![CDATA[They binged on debt &mdash; some of it for building factories and such, some for flat-screen TVs. Now the foreign investment that made it all possible has turned for home, leaving the countries of emerging markets in trouble deep.]]></itunes:summary>
+      <itunes:keywords>economy,crisis,money,NPR,National Public Radio,Planet Money,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>22:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96197146/npr_96197146.mp3" length="10815155" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Economist Makes Housecall</title>
+      <description><![CDATA[A listener in Portland, Ore., tells us she was laid off on Thursday. But never fear. MIT economist Simon Johnson, of Baseline Scenario, is ready to help. Plus: What's a Wall Street circuit breaker? And what's a healthy bank?]]></description>
+      <pubDate>Fri, 24 Oct 2008 18:04:12 -0400</pubDate>
+      <link>http://www.npr.org/planetmoney?ft=2&amp;f=510289</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96124482/npr_96124482.mp3</guid>
+      <itunes:summary><![CDATA[A listener in Portland, Ore., tells us she was laid off on Thursday. But never fear. MIT economist Simon Johnson, of Baseline Scenario, is ready to help. Plus: What's a Wall Street circuit breaker? And what's a healthy bank?]]></itunes:summary>
+      <itunes:keywords>Economist House Call,money,recession,economy,NPR,National Public Radio,Planet Money,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>19:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96124482/npr_96124482.mp3" length="9482492" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>World's Not Feeling So Great</title>
+      <description><![CDATA[Federal Reserve Chairman Alan Greenspan tells Congress how his worldview got upended. An economist eyes the hedge fund trouble to end all troubles. And a political analyst says our global situation was a long time in the making.]]></description>
+      <pubDate>Thu, 23 Oct 2008 18:47:43 -0400</pubDate>
+      <link>http://www.npr.org/planetmoney?ft=2&amp;f=510289</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96063334/npr_96063334.mp3</guid>
+      <itunes:summary><![CDATA[Federal Reserve Chairman Alan Greenspan tells Congress how his worldview got upended. An economist eyes the hedge fund trouble to end all troubles. And a political analyst says our global situation was a long time in the making.]]></itunes:summary>
+      <itunes:keywords>Greenspan,Roubini,hedge fund,crisis,economy,money,NPR,National Public Radio,Planet Money,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>20:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96063334/npr_96063334.mp3" length="10061156" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Yes, Iceland Has Food</title>
+      <description><![CDATA[An Icelandic ex-patriot says, no, her nation won't starve. That's true, says an Icelandic reporter, but the thrill's still gone. Plus: David Kestenbaum rings up a report on the next crisis, and Adam Davidson gets an unlikely nod for . . . Treasury Secretary.]]></description>
+      <pubDate>Wed, 22 Oct 2008 17:05:41 -0400</pubDate>
+      <link>http://www.npr.org/planetmoney?ft=2&amp;f=510289</link>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96002301/npr_96002301.mp3</guid>
+      <itunes:summary><![CDATA[An Icelandic ex-patriot says, no, her nation won't starve. That's true, says an Icelandic reporter, but the thrill's still gone. Plus: David Kestenbaum rings up a report on the next crisis, and Adam Davidson gets an unlikely nod for . . . Treasury Secretary.]]></itunes:summary>
+      <itunes:keywords>Iceland,Treasury,money,hedge fund,Adam Davidson,crisis,NPR,National Public Radio,Planet Money,Morning Edition,All Things Considered,Fresh Air</itunes:keywords>
+      <itunes:duration>23:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510289/96002301/npr_96002301.mp3" length="11515445" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
+
+<!-- Burned 11/06/2008 11:37:23.073-->
+

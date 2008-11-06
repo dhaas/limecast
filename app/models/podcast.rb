@@ -42,17 +42,17 @@ class Podcast < ActiveRecord::Base
   named_scope :parsed, lambda {
     { :conditions => {:id => Feed.parsed.map(&:podcast_id).uniq } }
   }
-	named_scope :tagged_with, lambda {|tag|
-		{ :conditions => {:id => (Tag.find_by_name(tag).taggings.podcasts.map(&:taggable_id).uniq rescue [])}}
-	}
-
+  named_scope :tagged_with, lambda {|tag|
+    { :conditions => {:id => (Tag.find_by_name(tag).taggings.podcasts.map(&:taggable_id).uniq rescue [])}}
+  }
+  
   attr_accessor :has_episodes
-
+  
   before_save :attempt_to_find_owner
   before_save :cache_custom_title
   before_save :sanitize_title
   before_save :sanitize_url
-
+  
   # Search
   define_index do
     indexes :title, :site, :description
